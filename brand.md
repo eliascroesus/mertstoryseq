@@ -11,3 +11,4 @@ Offer, voice and learnings. Full source docs are in the `brand-docs` release.
 
 ## Learnings
 - 2026-11-23: Too much text per frame. Stick to ~5–6 short boxes per frame like the hard-CTA reference. Lead with the flex (Dubai, "more than I ever dreamed of", people keep asking how I trade). Don't write flat lines like "the last 2 years it's been my main income".
+- 2026-11-23: Each frame must follow from the last (story → low point → turn → demand → offer → CTA). Pink only on pain words (blew, guessing, quit, NOT); gold on reward and the offer, including '5 spots'.
