@@ -19,7 +19,7 @@
 ## Frames
 
 ### 01: Flex → vulnerability
-- **Copy:** 4 years ago I was working construction. / Today I live in Dubai. / Making more than I ever dreamed of. / All from trading. / But it was NOT easy. / I almost quit more than once.
+- **Copy:** 4 years ago I was working 12-hour shifts. / Today I live in Dubai. / Making more than I ever dreamed of. / All from trading. / But it was NOT easy. / I almost quit more than once.
 - **Assets:** `assets/01-yacht-dubai.jpg` (IMG_9990)
 
 ### 02: Low point → turn
