@@ -10,11 +10,11 @@
 - **References used:** `01-inspiration/hard-cta/` H1 (white native text boxes, pink = pain, gold = reward, LARP background, yellow arrow, "I've been there. And I know how to fix it." close). Copy sources: VSL script, Elite 1-1 offer deck, apply page, onboarding call, ICP research.
 - **Placeholders left:** none. To confirm: the 3-month guarantee (from the offer deck) is final.
 
-## Arc (v2, tighter: 5–6 boxes per frame like the reference)
+## Arc (v4: frames 3–4 follow the reference's last two frames)
 1. Flex → vulnerability: construction → Dubai, more than he dreamed of → NOT easy, almost quit
-2. The low point (blew accounts, ICT, guessing) → a friend: learn order flow → saw who's really buying/selling (arrow)
-3. Now the same DM every day: "how do you trade?" → 1-1 Elite Mentorship → funded + first payout → only 5 traders
-4. I've been there, I know how to fix it → guarantee → 5 spots → tap the link & apply
+2. Low point (blew accounts, ICT, guessing) → a friend: learn order flow → saw who's really buying/selling
+3. People DM asking how I trade → opening 5 spots for 1-1 → "If you're still:" pain list → "You don't have to take that into 2027." (yellow arrow)
+4. I've been there, I know how to fix it → genuinely serious about getting funded → I'll coach you 1-1 until you are → 5 spots → tap the link & apply
 
 ## Frames
 
@@ -23,17 +23,17 @@
 - **Assets:** `assets/01-yacht-dubai.jpg` (IMG_9990)
 
 ### 02: Low point → turn
-- **Copy:** I blew account after account. / Years of ICT. A paid mentorship. / Still guessing every single trade. / Then a friend told me: learn order flow. / For the first time, I could see / who's really buying and selling. (+ yellow arrow)
+- **Copy:** I blew account after account. / Years of ICT. A paid mentorship. / Still guessing every single trade. / Then a friend told me: learn order flow. / For the first time, I could see / who's really buying and selling.
 - **Assets:** `assets/02-car-night.jpg` (IMG_6405)
 
-### 03: Demand → offer
-- **Copy:** Now I get the same DM every day: / "Bro, how do you trade?" / So I'm opening my 1-1 Elite Mentorship. / I'll personally help you get funded / and collect your first payout. / But I'm only taking 5 traders.
+### 03: Offer + pain list (ref H1 frame 10)
+- **Copy:** So many of you DM me asking how I trade. / So I'm opening 5 spots for 1-1. / If you're still: / Blowing accounts… / Revenge trading after one red day… / Knowing what's wrong but still doing it… / You don't have to take that into 2027. (+ yellow arrow)
 - **Assets:** `assets/03-boardwalk.jpg` (IMG_3780)
 
-### 04: Hard CTA
-- **Copy:** I've been there. / And I know how to fix it. / Not funded in 3 months? / I coach you for free until you are. / Only 5 spots. / Tap the link & apply 👇
+### 04: Hard CTA (ref H1 frame 11)
+- **Copy:** I've been there. / And I know how to fix it. / So if you're genuinely serious / about getting funded in 2027… / I'll coach you 1-1 until you are. / Only 5 spots. / Tap the link & apply 👇
 - **Assets:** `assets/04-rooftop.jpg` (IMG_5401)
-- **Add in app:** **link sticker** to the apply page, on his back (~y 1150–1350)
+- **Add in app:** **link sticker** to the apply page, on his back (~y 1100–1300)
 
 ## Posting notes
 - Post all 4 back to back. Repost frame 04 the next day ("3 spots left" etc. — only if true).
