@@ -14,7 +14,7 @@
 1. Flex → vulnerability: construction → Dubai, more than he dreamed of → NOT easy, almost quit
 2. Low point (blew accounts, ICT, guessing) → a friend: learn order flow → saw who's really buying/selling
 3. People DM asking how I trade → opening 5 spots for 1-1 → "If you're still:" pain list → "You don't have to take that into 2027." (yellow arrow)
-4. I've been there, I know how to fix it → genuinely serious about getting funded → I'll coach you 1-1 until you are → 5 spots → tap the link & apply
+4. I've been there, I know how to fix it → I'll coach you 1-1 until you're funded and collect your first payout → 5 spots for the genuinely serious → tap the link & apply
 
 ## Frames
 
@@ -31,7 +31,7 @@
 - **Assets:** `assets/03-boardwalk.jpg` (IMG_3780)
 
 ### 04: Hard CTA (ref H1 frame 11)
-- **Copy:** I've been there. / And I know how to fix it. / So if you're genuinely serious / about getting funded in 2027… / I'll coach you 1-1 until you are. / Only 5 spots. / Tap the link & apply 👇
+- **Copy:** I've been there. / And I know how to fix it. / I'll personally coach you 1-1 / until you're funded / and collect your first payout. / Only 5 spots for the genuinely serious. / Tap the link & apply 👇
 - **Assets:** `assets/04-rooftop.jpg` (IMG_5401)
 - **Add in app:** **link sticker** to the apply page, on his back (~y 1100–1300)
 
